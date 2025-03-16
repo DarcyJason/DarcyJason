@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is DarcyJason and I'm a Rustaceans, from China</h2>
+<h2 align="center">Hi 👋! My name is DarcyJason and I'm a Rustacean, from China.</h2>
 
 ###
 
